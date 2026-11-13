@@ -9,5 +9,8 @@
 		<techLevel>Medieval</techLevel>
 		<researchViewX>2.00</researchViewX>
 		<researchViewY>4.90</researchViewY>
+		<prerequisites>
+			<li>VFET_Culture</li>
+		</prerequisites>
 	</ResearchProjectDef>
 </Defs>
