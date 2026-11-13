@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- Museums merges into Biomes! Fossils' Paleontology; museum items keep VFE Tribals' Culture -->
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[starts-with(defName,"Museums_") or @Name="Museums_GlassWall"]/researchPrerequisites/li[.="Ferny_Museums"]</xpath>
+    <value>
+      <li>BMT_Paleontology</li>
+      <li MayRequire="OskarPotocki.VFE.Tribals">VFET_Culture</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ResearchProjectDef[defName="Ferny_Museums"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ResearchProjectDef[defName="BMT_Paleontology"]</xpath>
+    <value>
+      <ResearchProjectDef>
+        <defName>BMT_Paleontology</defName>
+        <label>Museums and paleontology</label>
+        <description>Excavate and preserve fossils, and display your colony's finest history for guests across the Rim to enjoy.</description>
+        <baseCost>500</baseCost>
+        <tab>Ferny_Hospitality</tab>
+        <techLevel>Medieval</techLevel>
+        <researchViewX>2.00</researchViewX>
+        <researchViewY>4.90</researchViewY>
+        <prerequisites>
+          <li>Stonecutting</li>
+        </prerequisites>
+      </ResearchProjectDef>
+    </value>
+  </Operation>
+</Patch>
