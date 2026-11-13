@@ -4,6 +4,8 @@
     <li>Common</li>
     <li IfModActiveAll="nightmare.museums,biomesteam.biomesfossils">Common/Mods and Shit/Museums + Biomes Fossils</li>
     <li IfModActive="Adamas.VendingMachines">Common/Mods and Shit/Vending Machines</li>
+    <li IfModActiveAll="Adamas.VendingMachines,ferny.BetterArchitect">Common/Mods and Shit/Vending Machines + Better Architect Menu</li>
+    <li IfModActiveAll="nightmare.museums,rebuild.cotr.doorsandcorners,ferny.BetterArchitect">Common/Mods and Shit/Museums + ReBuild + Better Architect Menu</li>
     <li IfModActive="nightmare.museums">Common/Mods and Shit/Museums</li>
     <li IfModActive="biomesteam.biomesfossils">Common/Mods and Shit/Biomes Fossils</li>
     <li IfModActive="adamas.hospitalitycasino">Common/Mods and Shit/Casino</li>
@@ -19,6 +21,8 @@
     <li>Common</li>
     <li IfModActiveAll="nightmare.museums,biomesteam.biomesfossils">Common/Mods and Shit/Museums + Biomes Fossils</li>
     <li IfModActive="Adamas.VendingMachines">Common/Mods and Shit/Vending Machines</li>
+    <li IfModActiveAll="Adamas.VendingMachines,ferny.BetterArchitect">Common/Mods and Shit/Vending Machines + Better Architect Menu</li>
+    <li IfModActiveAll="nightmare.museums,rebuild.cotr.doorsandcorners,ferny.BetterArchitect">Common/Mods and Shit/Museums + ReBuild + Better Architect Menu</li>
     <li IfModActive="nightmare.museums">Common/Mods and Shit/Museums</li>
     <li IfModActive="biomesteam.biomesfossils">Common/Mods and Shit/Biomes Fossils</li>
     <li IfModActive="adamas.hospitalitycasino">Common/Mods and Shit/Casino</li>
