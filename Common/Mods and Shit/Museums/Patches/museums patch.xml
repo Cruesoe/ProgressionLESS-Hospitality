@@ -34,12 +34,6 @@
     </mods>
     <match Class="PatchOperationSequence">
       <operations>
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/ThingDef[@Name="Museums_GlassWall"]/designationCategory</xpath>
-          <value>
-            <designationCategory>Ferny_Hosting</designationCategory>
-          </value>
-        </li>
         <li Class="PatchOperationAdd">
           <xpath>Defs/ThingDef[@Name="Museums_GlassWall"]</xpath>
           <value>
@@ -91,23 +85,6 @@
           <defName>FernyMuseumsRoosPaintingProgHospitality_HiddenDesignators</defName>
           <hiddenDesignators>
             <li>RBPGalleryBarrier</li>
-          </hiddenDesignators>
-        </VEF.Buildings.HiddenDesignatorsDef>
-      </value>
-    </match>
-  </Operation>
-  <Operation Class="PatchOperationFindMod">
-    <mods>
-      <li>Biomes! Fossils</li>
-    </mods>
-    <match Class="PatchOperationAdd">
-      <xpath>Defs</xpath>
-      <value>
-        <VEF.Buildings.HiddenDesignatorsDef>
-          <defName>FernyMuseumsBiomesFossilsProgHospitality_HiddenDesignators</defName>
-          <hiddenDesignators>
-            <li>BMT_DisplayCase</li>
-            <li>BMT_VelvetRope</li>
           </hiddenDesignators>
         </VEF.Buildings.HiddenDesignatorsDef>
       </value>
