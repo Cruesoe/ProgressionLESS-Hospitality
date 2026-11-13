@@ -1,31 +1,30 @@
 <loadFolders>
-  <v1.4>
+  <v1.6>
     <li>/</li>
-    <li IfModActive="Adamas.VendingMachines">Mods and Shit/Vending Machines</li>
-    <li IfModActive="nightmare.museums">Mods and Shit/Museums</li>
-    <li IfModActive="biomesteam.biomesfossils">Mods and Shit/Biomes Fossils</li>
-    <li IfModActive="adamas.hospitalitycasino">Mods and Shit/Casino</li>
-    <li IfModActive="orion.cashregister">Mods and Shit/Cash Register</li>
-    <li IfModActive="adamas.hospitalityspa">Mods and Shit/Spa</li>
-    <li IfModActive="orion.gastronomy">Mods and Shit/Gastronomy</li>
-    <li IfModActive="Adamas.Storefront">Mods and Shit/Storefront</li>
-    <li IfModActive="dankpyon.medieval.overhaul">Mods and Shit/Medieval Overhaul</li>
-    <li IfModActive="nightmare.aquariums">Mods and Shit/Aquariums</li>
-    <li IfModActive="adamas.hospital">Mods and Shit/Hospital</li>
-  </v1.4>
-  <v1.5>
+    <li>Common</li>
+    <li IfModActive="Adamas.VendingMachines">Common/Mods and Shit/Vending Machines</li>
+    <li IfModActive="nightmare.museums">Common/Mods and Shit/Museums</li>
+    <li IfModActive="biomesteam.biomesfossils">Common/Mods and Shit/Biomes Fossils</li>
+    <li IfModActive="adamas.hospitalitycasino">Common/Mods and Shit/Casino</li>
+    <li IfModActive="orion.cashregister">Common/Mods and Shit/Cash Register</li>
+    <li IfModActive="adamas.hospitalityspa">Common/Mods and Shit/Spa</li>
+    <li IfModActive="orion.gastronomy">Common/Mods and Shit/Gastronomy</li>
+    <li IfModActive="Adamas.Storefront">Common/Mods and Shit/Storefront</li>
+    <li IfModActive="dankpyon.medieval.overhaul">Common/Mods and Shit/Medieval Overhaul</li>
+    <li IfModActive="adamas.hospital">Common/Mods and Shit/Hospital</li>
+  </v1.6>
+  <v1.7>
     <li>/</li>
-    <li IfModActive="Adamas.VendingMachines">Mods and Shit/Vending Machines</li>
-    <li IfModActive="nightmare.museums">Mods and Shit/Museums</li>
-    <li IfModActive="biomesteam.biomesfossils">Mods and Shit/Biomes Fossils</li>
-    <li IfModActive="adamas.hospitalitycasino">Mods and Shit/Casino</li>
-    <li IfModActive="orion.cashregister">Mods and Shit/Cash Register</li>
-    <li IfModActive="adamas.hospitalityspa">Mods and Shit/Spa</li>
-    <li IfModActive="orion.gastronomy">Mods and Shit/Gastronomy</li>
-    <li IfModActive="Adamas.Storefront">Mods and Shit/Storefront</li>
-    <li IfModActive="dankpyon.medieval.overhaul">Mods and Shit/Medieval Overhaul</li>
-    <li IfModActive="nightmare.aquariums">Mods and Shit/Aquariums</li>
-    <li IfModActive="adamas.hospital">Mods and Shit/Hospital</li>
-  </v1.5>
-
+    <li>Common</li>
+    <li IfModActive="Adamas.VendingMachines">Common/Mods and Shit/Vending Machines</li>
+    <li IfModActive="nightmare.museums">Common/Mods and Shit/Museums</li>
+    <li IfModActive="biomesteam.biomesfossils">Common/Mods and Shit/Biomes Fossils</li>
+    <li IfModActive="adamas.hospitalitycasino">Common/Mods and Shit/Casino</li>
+    <li IfModActive="orion.cashregister">Common/Mods and Shit/Cash Register</li>
+    <li IfModActive="adamas.hospitalityspa">Common/Mods and Shit/Spa</li>
+    <li IfModActive="orion.gastronomy">Common/Mods and Shit/Gastronomy</li>
+    <li IfModActive="Adamas.Storefront">Common/Mods and Shit/Storefront</li>
+    <li IfModActive="dankpyon.medieval.overhaul">Common/Mods and Shit/Medieval Overhaul</li>
+    <li IfModActive="adamas.hospital">Common/Mods and Shit/Hospital</li>
+  </v1.7>
 </loadFolders>
