@@ -1,0 +1,39 @@
+[b]All the Progression goodness, less research.[/b]
+
+[i]This is a fork of [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3265298940]Progression: Hospitality[/url] by ferny. Huge thanks to ferny for the original mod and all the Progression work this builds on. For a really good modpack, check out [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3521297585]The Progression Modpack[/url].[/i]
+
+[h2]Features[/h2]
+[list]
+[*]Overhauls and integrates hospitality mods into a more complete package, on its own Hospitality research tab.
+[*]Adds a merchant box, a low-tech register for running a shop or restaurant before electricity.
+[*]Gives clearer names to some buildings, such as the vending shelf, the fossil displays and the market tents.
+[*]Hides duplicate museum barriers and display cases when several mods overlap.
+[/list]
+
+[h2]Why "LESS"?[/h2]
+Progression: Hospitality adds up to [b]3 research projects[/b] depending on your mods. This fork cuts that to [b]at most 2[/b]:
+[list]
+[*][b]Basic retail[/b] (Neolithic)
+[*][b]Museums[/b] (Medieval), which also holds paleontology when Biomes! Fossils is active
+[/list]
+Everything else unlocks with the research it already builds on:
+[list]
+[*]Slot machines: [b]Microelectronics[/b]
+[/list]
+Everything stays in the same era, and still needs the other research it did before.
+
+[h2]Compatibility[/h2]
+Keeps all of the original's mod support:
+[list]
+[*]Hospitality: Vending machines, Casino, Spa and Storefront
+[*]Cash Register and Gastronomy
+[*]Museums and Biomes! Fossils
+[*]Hospital
+[*]Medieval Overhaul
+[*]ReBuild: Doors and Corners
+[*]Roo's Painting Expansion
+[/list]
+
+[b]Replaces the original. Don't use both.[/b]
+
+[b]Switching mid-game isn't recommended.[/b] Many of the original's research projects are merged or removed, so swapping Progression: Hospitality for this fork in an existing save can lose research progress. Start a new game when you switch.
