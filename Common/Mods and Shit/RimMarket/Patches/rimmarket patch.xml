@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="RimMarket_MarketMarker" or defName="RimMarket_CaravanCamp" or defName="RimMarket_GuardRestSpot" or defName="RimMarket_Stall" or defName="RimMarket_AuctionBlock"]</xpath>
+    <value>
+      <researchPrerequisites>
+        <li>Ferny_BasicRetail</li>
+      </researchPrerequisites>
+    </value>
+  </Operation>
+</Patch>
