@@ -3,6 +3,7 @@
     <li>/</li>
     <li>Common</li>
     <li IfModActiveAll="nightmare.museums,biomesteam.biomesfossils">Common/Mods and Shit/Museums + Biomes Fossils</li>
+    <li IfModActive="forti.rimmarket">Common/Mods and Shit/RimMarket</li>
     <li IfModActive="Adamas.VendingMachines">Common/Mods and Shit/Vending Machines</li>
     <li IfModActiveAll="Adamas.VendingMachines,ferny.BetterArchitect">Common/Mods and Shit/Vending Machines + Better Architect Menu</li>
     <li IfModActiveAll="nightmare.museums,rebuild.cotr.doorsandcorners,ferny.BetterArchitect">Common/Mods and Shit/Museums + ReBuild + Better Architect Menu</li>
@@ -15,12 +16,12 @@
     <li IfModActive="Adamas.Storefront">Common/Mods and Shit/Storefront</li>
     <li IfModActive="dankpyon.medieval.overhaul">Common/Mods and Shit/Medieval Overhaul</li>
     <li IfModActive="adamas.hospital">Common/Mods and Shit/Hospital</li>
-    <li IfModActive="forti.rimmarket">Common/Mods and Shit/RimMarket</li>
   </v1.6>
   <v1.7>
     <li>/</li>
     <li>Common</li>
     <li IfModActiveAll="nightmare.museums,biomesteam.biomesfossils">Common/Mods and Shit/Museums + Biomes Fossils</li>
+    <li IfModActive="forti.rimmarket">Common/Mods and Shit/RimMarket</li>
     <li IfModActive="Adamas.VendingMachines">Common/Mods and Shit/Vending Machines</li>
     <li IfModActiveAll="Adamas.VendingMachines,ferny.BetterArchitect">Common/Mods and Shit/Vending Machines + Better Architect Menu</li>
     <li IfModActiveAll="nightmare.museums,rebuild.cotr.doorsandcorners,ferny.BetterArchitect">Common/Mods and Shit/Museums + ReBuild + Better Architect Menu</li>
@@ -33,6 +34,5 @@
     <li IfModActive="Adamas.Storefront">Common/Mods and Shit/Storefront</li>
     <li IfModActive="dankpyon.medieval.overhaul">Common/Mods and Shit/Medieval Overhaul</li>
     <li IfModActive="adamas.hospital">Common/Mods and Shit/Hospital</li>
-    <li IfModActive="forti.rimmarket">Common/Mods and Shit/RimMarket</li>
   </v1.7>
 </loadFolders>
