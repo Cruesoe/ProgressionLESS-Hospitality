@@ -27,7 +27,6 @@ Keeps all of the original's mod support:
 [list]
 [*]Hospitality: Vending machines, Casino, Spa and Storefront
 [*]Cash Register and Gastronomy
-[*]RimMarket: market stalls, the market marker, caravan camp, guard rest spot and auction post unlock with [b]Basic retail[/b]
 [*]Museums and Biomes! Fossils
 [*]Hospital
 [*]Medieval Overhaul
