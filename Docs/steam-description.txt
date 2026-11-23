@@ -13,7 +13,7 @@
 [h2]Why "LESS"?[/h2]
 Progression: Hospitality adds up to [b]3 research projects[/b] depending on your mods. This fork cuts that to [b]at most 2[/b]:
 [list]
-[*][b]Basic retail[/b] (Neolithic)
+[*][b]Basic retail[/b] (Neolithic), which merges into RimMarket's [b]Market stalls[/b] when RimMarket is active
 [*][b]Museums[/b] (Medieval), which also holds paleontology when Biomes! Fossils is active
 [/list]
 Everything else unlocks with the research it already builds on:
@@ -30,6 +30,7 @@ Keeps all of the original's mod support:
 [*]Museums and Biomes! Fossils
 [*]Hospital
 [*]Medieval Overhaul
+[*]RimMarket
 [*]ReBuild: Doors and Corners
 [*]Roo's Painting Expansion
 [/list]
