@@ -8,6 +8,15 @@
       <li>RimMarket_MarketStalls</li>
     </value>
   </Operation>
+  <!-- RimMarket's buildings without research of their own unlock with Market stalls too -->
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="RimMarket_MarketMarker" or defName="RimMarket_CaravanCamp" or defName="RimMarket_GuardRestSpot" or defName="RimMarket_AuctionBlock"]</xpath>
+    <value>
+      <researchPrerequisites>
+        <li>RimMarket_MarketStalls</li>
+      </researchPrerequisites>
+    </value>
+  </Operation>
   <Operation Class="PatchOperationRemove">
     <xpath>Defs/ResearchProjectDef[defName="Ferny_BasicRetail"]</xpath>
   </Operation>
