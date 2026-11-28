@@ -11,7 +11,6 @@
   <Operation Class="PatchOperationRemove">
     <xpath>Defs/ResearchProjectDef[defName="Ferny_Museums"]</xpath>
   </Operation>
-  <!-- Hide Biomes! Fossils' display case and velvet rope in favor of Museums' own -->
   <Operation Class="PatchOperationAdd">
     <xpath>Defs/ThingDef[defName="BMT_DisplayCase"]</xpath>
     <value>

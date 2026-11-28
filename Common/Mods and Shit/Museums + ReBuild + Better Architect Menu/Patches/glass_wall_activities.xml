@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Patch>
-  <!-- Better Architect Menu's Activities category -->
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[@Name="Museums_GlassWall"]/designationCategory</xpath>
     <value>
