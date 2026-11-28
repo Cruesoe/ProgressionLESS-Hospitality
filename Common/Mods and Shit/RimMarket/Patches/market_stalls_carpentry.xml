@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- Market stalls needs Carpentry when Progression: Furniture or ProgressionLESS: Furniture provides it -->
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ResearchProjectDef[defName="Ferny_Column"]</xpath>
+    <match Class="PatchOperationConditional">
+      <xpath>Defs/ResearchProjectDef[defName="RimMarket_MarketStalls"]/prerequisites</xpath>
+      <match Class="PatchOperationAdd">
+        <xpath>Defs/ResearchProjectDef[defName="RimMarket_MarketStalls"]/prerequisites</xpath>
+        <value>
+          <li>Ferny_Column</li>
+        </value>
+      </match>
+      <nomatch Class="PatchOperationAdd">
+        <xpath>Defs/ResearchProjectDef[defName="RimMarket_MarketStalls"]</xpath>
+        <value>
+          <prerequisites>
+            <li>Ferny_Column</li>
+          </prerequisites>
+        </value>
+      </nomatch>
+    </match>
+  </Operation>
+</Patch>
